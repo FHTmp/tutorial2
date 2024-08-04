@@ -1,1 +1,1 @@
-https://github.com/FHTmp/tutorial2/pull/new/main
+https://github.com/FHTmp/tutorial2/tree/main
